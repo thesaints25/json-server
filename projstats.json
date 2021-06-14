@@ -1,7 +1,7 @@
 {
   "name": "json-server",
   "version": "0.16.3",
-  "version3": "192361568",  
+  "version3": "0.16.4",  
   "description": "Get a full fake REST API with zero coding in less than 30 seconds",
   "main": "./lib/server/index.js",
   "bin": "./lib/cli/bin.js",
