@@ -3,7 +3,7 @@
         "QuotaGroupName":  "Vietnam",
         "ProjectID":  "1138937",
         "DubProjectID":  "ORD-623864-M8M5",
-        "ProjectStatus":[
+        "ProjectStatus"
             "RPS":  "0.00",
             "Nrofstarts":  "45",
             "Nrofcompletes":  "0",
@@ -20,125 +20,5 @@
             "EndDate":  "6/10/21",
             "CurrentDeliveryMode":  "Accelerated",
             "CurrentBoostLevel":  "N/A"
-        ]
-    },
-    {
-        "QuotaGroupID":  "151171182",
-        "QuotaGroupName":  "USA V2",
-        "ProjectID":  "1127058",
-        "DubProjectID":  "ORD-615820-D0H6",
-        "ProjectStatus":[
-            "RPS":  "1.38",
-            "Nrofstarts":  "442",
-            "Nrofcompletes":  "172",
-            "Nrofscreenouts":  "166",
-            "NrofQFs":  "37",
-            "NrofDrops":  "64",
-            "NrCompleteRefusals":  "3",
-            "ConversionRate":  "38.9",
-            "BidIR":  "15",
-            "SurveyIR":  "45.9",
-            "BidLOI":  "15",
-            "ActualLOI":  "14:31",
-            "SampleCountry":  "United States of America",
-            "EndDate":  "6/7/21",
-            "CurrentDeliveryMode":  "Accelerated",
-            "CurrentBoostLevel":  "N/A"
-        ]
-    },
-    {
-        "QuotaGroupID":  "150273286",
-        "QuotaGroupName":  "USA",
-        "ProjectID":  "1138517",
-        "DubProjectID":  "ORD-622958-Q5S9",
-        "ProjectStatus":[
-            "RPS":  "1.44",
-            "Nrofstarts":  "551",
-            "Nrofcompletes":  "159",
-            "Nrofscreenouts":  "433",
-            "NrofQFs":  "0",
-            "NrofDrops":  "15",
-            "NrCompleteRefusals":  "0",
-            "ConversionRate":  "26.2",
-            "BidIR":  "40",
-            "SurveyIR":  "26.9",
-            "BidLOI":  "5",
-            "ActualLOI":  "7:48",
-            "SampleCountry":  "United States of America",
-            "EndDate":  "6/8/21",
-            "CurrentDeliveryMode":  "Accelerated",
-            "CurrentBoostLevel":  "Escalation"
-        ]
-    },
-    {
-        "QuotaGroupID":  "150999418",
-        "QuotaGroupName":  "USA",
-        "ProjectID":  "1144061",
-        "DubProjectID":  "ORD-607507-H9C7",
-        "ProjectStatus":[
-            "RPS":  "2.40",
-            "Nrofstarts":  "816",
-            "Nrofcompletes":  "392",
-            "Nrofscreenouts":  "326",
-            "NrofQFs":  "0",
-            "NrofDrops":  "94",
-            "NrCompleteRefusals":  "4",
-            "ConversionRate":  "48",
-            "BidIR":  "80",
-            "SurveyIR":  "54.6",
-            "BidLOI":  "25",
-            "ActualLOI":  "14:27",
-            "SampleCountry":  "United States of America",
-            "EndDate":  "6/11/21",
-            "CurrentDeliveryMode":  "Burst",
-            "CurrentBoostLevel":  "N/A"
-        ]
-    },
-    {
-        "QuotaGroupID":  "151038946",
-        "QuotaGroupName":  "USA - Gen Pop - Soft Launch",
-        "ProjectID":  "1144414",
-        "DubProjectID":  "ORD-626839-B6R2",
-        "ProjectStatus":[
-            "RPS":  "0.56",
-            "Nrofstarts":  "1314",
-            "Nrofcompletes":  "159",
-            "Nrofscreenouts":  "984",
-            "NrofQFs":  "2",
-            "NrofDrops":  "60",
-            "NrCompleteRefusals":  "109",
-            "ConversionRate":  "12.1",
-            "BidIR":  "25",
-            "SurveyIR":  "20.5",
-            "BidLOI":  "10",
-            "ActualLOI":  "12:37",
-            "SampleCountry":  "United States of America",
-            "EndDate":  "6/11/21",
-            "CurrentDeliveryMode":  "Accelerated",
-            "CurrentBoostLevel":  "Escalation"
-        ]
-    },
-    {
-        "QuotaGroupID":  "150858768",
-        "QuotaGroupName":  "South-Korea",
-        "ProjectID":  "1142669",
-        "DubProjectID":  "ORD-625068-H6M6",
-        "ProjectStatus":[
-            "RPS":  "2.60",
-            "Nrofstarts":  "582",
-            "Nrofcompletes":  "39",
-            "Nrofscreenouts":  "401",
-            "NrofQFs":  "0",
-            "NrofDrops":  "22",
-            "NrCompleteRefusals":  "0",
-            "ConversionRate":  "6.7",
-            "BidIR":  "9",
-            "SurveyIR":  "8.9",
-            "BidLOI":  "10",
-            "ActualLOI":  "7:50",
-            "SampleCountry":  "Korea, South",
-            "EndDate":  "6/9/2021",
-            "CurrentDeliveryMode":  "Burst",
-            "CurrentBoostLevel":  "N/A"
-        ]
+        
     }
