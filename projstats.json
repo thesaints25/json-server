@@ -1,7 +1,11 @@
 {
   "name": "json-server",
   "version": "0.16.3",
-  "QuotaGroupID": "0.16.4",  
+  "QuotaGroupID": "0.16.4",
+  "QuotaGroupID":  "150334169",
+  "QuotaGroupName":  "Vietnam",
+  "ProjectID":  "1138937",
+  "DubProjectID":  "ORD-623864-M8M5",
   "description": "Get a full fake REST API with zero coding in less than 30 seconds",
   "main": "./lib/server/index.js",
   "bin": "./lib/cli/bin.js",
