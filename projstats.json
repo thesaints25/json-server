@@ -22,4 +22,10 @@
   "EndDate":  "6/10/21",
   "CurrentDeliveryMode":  "Accelerated",
   "CurrentBoostLevel":  "N/A",
+},
+{
+        "QuotaGroupID":  "151171182",
+        "QuotaGroupName":  "USA V2",
+        "ProjectID":  "1127058",
+        "DubProjectID":  "ORD-615820-D0H6"
 }
