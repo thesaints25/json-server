@@ -22,7 +22,7 @@
   "CurrentDeliveryMode": "Accelerated",
   "CurrentBoostLevel": "N/A",
   "Auto-Shutdown": "Enabled",
-  "ProjectType": "Ad hoc",
+  "ProjectType": "Adhoc",
   "ProjectStatus": "Active",
   "AllowedDevices: "Desktop,Tablet,SmartPhone",
   "NoCharge": "Off",
