@@ -22,6 +22,13 @@
   "CurrentDeliveryMode": "Accelerated",
   "CurrentBoostLevel": "N/A",
   "Auto-Shutdown": "Enabled",
-  "Adhoc": 0,
-  "Tracker": 1
+  "Project Type": "Ad hoc",
+  "Project Status": "Active",
+  "Target End Date": "26 December 2021",
+  "Allowed Devices: "Desktop,Tablet,SmartPhone",
+  "No Charge": "Off",
+  "Automated Sourcing Enabled": "On",
+  "Auto Close": "On",
+  "Picker Event": "Active",
+  "Soft Launch Target": 0
 }
