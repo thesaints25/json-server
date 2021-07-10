@@ -23,9 +23,5 @@
   "CurrentBoostLevel": "N/A",
   "Auto-Shutdown": "Enabled",
   "ProjectType": "Adhoc",
-  "ProjectStatus": "Active",
-  "AllowedDevices: "Desktop,Tablet,SmartPhone",
-  "NoCharge": "Off",
-  "AutomatedSourcingEnabled": "On",
-  "AutoClose": "On"
+  "ProjectStatus": "Active"
 }
