@@ -6,6 +6,7 @@
   "ProjectID": "1127058",
   "DubProjectID": "ORD-615820-D0H6",
   "RPS": 1.38,
+  "CPI": 11,
   "Nrofstarts": 442,
   "Nrofcompletes": 172,
   "Nrofscreenouts": 166,
