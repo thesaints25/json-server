@@ -22,12 +22,12 @@
   "CurrentDeliveryMode": "Accelerated",
   "CurrentBoostLevel": "N/A",
   "Auto-Shutdown": "Enabled",
-  "Project Type": "Ad hoc",
-  "Project Status": "Active",
-  "Allowed Devices: "Desktop,Tablet,SmartPhone",
-  "No Charge": "Off",
-  "Automated Sourcing Enabled": "On",
-  "Auto Close": "On",
-  "Soft Launch Target": 0,
-  "Picker Event": "Active"
+  "ProjectType": "Ad hoc",
+  "ProjectStatus": "Active",
+  "AllowedDevices: "Desktop,Tablet,SmartPhone",
+  "NoCharge": "Off",
+  "AutomatedSourcingEnabled": "On",
+  "AutoClose": "On",
+  "SoftLaunchTarget": 0,
+  "PickerEvent": "Active"
 }
