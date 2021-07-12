@@ -21,7 +21,7 @@
   "SampleCountry": "United Kingdom",
   "EndDate": "2021-07-02",
   "CurrentDeliveryMode": "Accelerated",
-  "CurrentBoostLevel": ,
+  "CurrentBoostLevel": "Escalation",
   "Auto-Shutdown": "Enabled",
   "ProjectType": "Adhoc",
   "ProjectStatus": "Active",
