@@ -30,5 +30,6 @@
   "AutomatedSourcingEnabled": "On",
   "AutoClose": "On",
   "SoftLaunchTarget": 0,
-  "PickerEvent": "Active"
+  "PickerEvent": "Active",
+  "CompletesRequired" : 500
 }
