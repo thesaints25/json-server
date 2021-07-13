@@ -31,5 +31,7 @@
   "AutoClose": "On",
   "SoftLaunchTarget": 0,
   "PickerEvent": "Active",
-  "CompletesRequired" : 1547
+  "CompletesRequired" : 1547,
+  "TimePoints": "enabled",
+  "RespondentPoints": "enabled"
 }
