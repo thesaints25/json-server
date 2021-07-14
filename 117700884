@@ -13,7 +13,7 @@
   "NrofQFs": 0,
   "NrofDrops": 3,
   "NrCompleteRefusals": 0,
-  "ConversionRate": 57.1%,
+  "ConversionRate": 57,
   "BidIR": 100,
   "SurveyIR": 100,
   "BidLOI": "00:02:00",
@@ -32,7 +32,7 @@
   "QGAutoClose": "On",
   "PrjAutoClose": "Off",
   "SoftLaunchTarget": 5,
-  "PickerEvent": "In-Active",
+  "PickerEvent": "Inactive",
   "CompletesRequired" : 0,
   "TimePoints": "enabled",
   "RespondentPoints": "enabled"
