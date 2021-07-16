@@ -18,7 +18,17 @@
     "SurveyIR": 83.3,
     "BidLOI": "00:08:00",
     "ActualLOI": "00:03:53",
-    "SampleCountry": "United States of America"
+    "SampleCountry": "United States of America",
+    "QGEndDate": "2019-11-15",
+    "PrjEndDate": "2019-12-19",
+    "CurrentDeliveryMode": "Standard",
+    "CurrentBoostLevel": "N/A",
+    "Auto-Shutdown": "Enabled",
+    "ProjectType": "Adhoc",
+    "ProjectStatus": "Archived",
+    "AllowedDevices": "Desktop","Tablet","Smart Phone",
+    "NoCharge": "ON",
+    "AutomatedSourcingEnabled": "On"
   },
   {
     "postinstall": "husky install",
