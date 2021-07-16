@@ -1,5 +1,5 @@
 {
-  "QuotaGroup": [
+  "scripts": [
   {
     "postinstall": "husky install",
     "test": "npm run build && cross-env NODE_ENV=test jest && npm run lint",
