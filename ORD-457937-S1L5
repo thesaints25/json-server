@@ -23,7 +23,19 @@
     "PrjEndDate": "2019-12-19",
     "CurrentDeliveryMode": "Standard",
     "CurrentBoostLevel": "N/A",
-    "Auto-Shutdown": "Enabled"
+    "Auto-Shutdown": "Enabled",
+    "ProjectType": "Adhoc",
+    "ProjectStatus": "Archived",
+    "AllowedDevices": "Desktop,Tablet,Smart Phone",
+    "NoCharge": "ON",
+    "AutomatedSourcingEnabled": "On",
+    "QGAutoClose": "On",
+    "PrjAutoClose": "Off",
+    "SoftLaunchTarget": 0,
+    "PickerEvent": "Inactive",
+    "CompletesRequired" : 50,
+    "TimePoints": "enabled",
+    "RespondentPoints": "enabled"
   },
   {
     "postinstall": "husky install",
