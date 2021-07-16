@@ -6,6 +6,7 @@
   "ProjectType": "Adhoc",
   "ProjectStatus": "Archived",
   "PrjAutoClose": "Off",
+  "AllowedDevices": "Desktop,Tablet,Smart Phone",
   "QuotaGroups": [
       {
         "QuotaGroupID": "120051973",
@@ -28,7 +29,6 @@
         "CurrentDeliveryMode": "Standard",
         "CurrentBoostLevel": "N/A",
         "Auto-Shutdown": "Enabled",
-        "AllowedDevices": "Desktop,Tablet,Smart Phone",
         "NoCharge": "ON",
         "AutomatedSourcingEnabled": "On",
         "QGAutoClose": "On",
@@ -59,7 +59,6 @@
         "CurrentDeliveryMode": "Standard",
         "CurrentBoostLevel": "N/A",
         "Auto-Shutdown": "Enabled",
-        "AllowedDevices": "Desktop,Tablet,Smart Phone",
         "NoCharge": "ON",
         "AutomatedSourcingEnabled": "On",
         "QGAutoClose": "On",
