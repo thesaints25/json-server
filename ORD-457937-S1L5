@@ -38,8 +38,6 @@
         "RespondentPoints": "enabled"
       },
       {
-        "name": "json-server",
-        "version": "0.16.6",
         "QuotaGroupID": "120051980",
         "QuotaGroupName": "Business DM",
         "ProjectID": "868834",
