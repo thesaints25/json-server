@@ -1,5 +1,4 @@
-{ 
- {
+{
   "name": "json-server",
   "version": "0.16.6",
   "QuotaGroupID": "120051973",
@@ -37,8 +36,8 @@
   "CompletesRequired" : 50,
   "TimePoints": "enabled",
   "RespondentPoints": "enabled"
-}
-{
+  
+  {
   "name": "json-server",
   "version": "0.16.6",
   "QuotaGroupID": "120051980",
