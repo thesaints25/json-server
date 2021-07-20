@@ -33,6 +33,6 @@
   "SoftLaunchTarget": 0,
   "PickerEvent": "Inactive",
   "CompletesRequired" : 50,
-  TimePoints": "enabled",
+  "TimePoints": "enabled",
   "RespondentPoints": "enabled"
 }
