@@ -7,14 +7,14 @@
   "ProjectStatus": "Archived",
   "PrjAutoClose": "Off",
   "AllowedDevices": "Desktop,Tablet,Smart Phone",
-  "QuotaGroups":[
+  "QuotaGroups":
       {
         "QuotaGroupID": "120051973",
-        "QuotaGroupName": "Advertising_Media",  
+        "QuotaGroupName": "Advertising_Media"
       },
       {
         "QuotaGroupID": "120051980",
-        "QuotaGroupName": "Business DM",
+        "QuotaGroupName": "Business DM"
       }
-    ]
+    
 }
