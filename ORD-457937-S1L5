@@ -7,7 +7,7 @@
   "ProjectStatus": "Archived",
   "PrjAutoClose": "Off",
   "AllowedDevices": "Desktop,Tablet,Smart Phone",
-  "NoOfQuotaGroups": 2
+  "NoOfQuotaGroups": 2,
   "QuotaGroups": [
       {
         "QuotaGroupID": "120051973",
