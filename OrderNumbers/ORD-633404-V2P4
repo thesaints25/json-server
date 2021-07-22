@@ -15,15 +15,15 @@
       },
       {
         "QuotaGroupID": "153044302",
-        "QuotaGroupName": "COPD Old Ailment Caucasian"
+        "QuotaGroupName": "COPD New Ailment Non Caucasian"
       },
       {
         "QuotaGroupID": "155173265",
-        "QuotaGroupName": "COPD Old Ailment Caucasian"
+        "QuotaGroupName": "COPD Old Ailment Non Caucasian"
       },        
       {
         "QuotaGroupID": "155185169",
-        "QuotaGroupName": "COPD Old Ailment Caucasian"
+        "QuotaGroupName": "COPD New Ailment Caucasian"
       }
   ]
 }
