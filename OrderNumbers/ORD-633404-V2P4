@@ -10,7 +10,7 @@
   "NoOfQuotaGroups": 4,
   "QuotaGroups": [
       {
-        "QuotaGroupID": 153044299
+        "QuotaGroupID": 153044299,
         "QuotaGroupName": COPD Old Ailment Caucasian"
       },
       {
@@ -18,12 +18,12 @@
         "QuotaGroupName": "COPD New Ailment Non Caucasian"
       },
 		{
-		"QuotaGroupID": 155173265
+		"QuotaGroupID": 155173265,
 		"QuotaGroupName": "COPD Old Ailment Non Caucasian"
 
 		},
 	{
-		"QuotaGroupID": 155185169
+		"QuotaGroupID": 155185169,
 		"QuotaGroupName": "COPD New Ailment Caucasian"
 	}
   ]
