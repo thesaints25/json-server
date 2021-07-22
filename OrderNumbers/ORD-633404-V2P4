@@ -10,20 +10,20 @@
   "NoOfQuotaGroups": 4,
   "QuotaGroups": [
       {
-        "QuotaGroupID": "120051971",
-        "QuotaGroupName": "Advertising_Media"
+        "QuotaGroupID": "153044299",
+        "QuotaGroupName": "COPD Old Ailment Caucasian"
       },
       {
-        "QuotaGroupID": "120051972",
-        "QuotaGroupName": "Advertising_Media"
+        "QuotaGroupID": "153044302",
+        "QuotaGroupName": "COPD Old Ailment Caucasian"
       },
       {
-        "QuotaGroupID": "120051973",
-        "QuotaGroupName": "Advertising_Media"
+        "QuotaGroupID": "155173265",
+        "QuotaGroupName": "COPD Old Ailment Caucasian"
       },        
       {
-        "QuotaGroupID": "120051980",
-        "QuotaGroupName": "Business DM"
+        "QuotaGroupID": "155185169",
+        "QuotaGroupName": "COPD Old Ailment Caucasian"
       }
   ]
 }
