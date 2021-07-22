@@ -8,4 +8,14 @@
   "PrjAutoClose": "Off",
   "AllowedDevices": "Desktop,Tablet,Smart Phone",
   "NoOfQuotaGroups": 4
+  "QuotaGroups": [
+      {
+        "QuotaGroupID": "120051973",
+        "QuotaGroupName": "Advertising_Media"
+      },
+      {
+        "QuotaGroupID": "120051980",
+        "QuotaGroupName": "Business DM"
+      }
+  ]
 }
