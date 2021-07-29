@@ -32,7 +32,7 @@
   "QGAutoClose": "On",
   "PrjAutoClose": "Off",
   "SoftLaunchTarget": 0,
-  "PickerEvent": "Active",
+  "PickerEvent": "In-Active",
   "CompletesRequired" : 150,
   "TimePoints": "enabled",
   "RespondentPoints": "enabled"
