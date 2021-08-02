@@ -10,7 +10,7 @@
   "QuotaGroups": [
       {
 "QuotaGroupID": "120051973",
-"QuotaGroupName": "Advertising_Media"
+"QuotaGroupName": "Advertising_Media",
 "RPS": 0.00,
 "CPI": 0,
 "Nrofstarts": 71,
@@ -40,7 +40,7 @@
       },
       {
 "QuotaGroupID": "120051980",
-"QuotaGroupName": "Business DM"
+"QuotaGroupName": "Business DM",
 "RPS": 0.00,
 "CPI": 0,
 "Nrofstarts": 82,
